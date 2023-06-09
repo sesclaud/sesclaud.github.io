@@ -1,2 +1,1 @@
-# sesclaud.github.io
-personal webpage
+Page under construction

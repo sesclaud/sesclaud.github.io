@@ -1,5 +1,6 @@
 ## About Me
 PhD Student in Management, Accounting and Finance at [LIUC Università Carlo Cattaneo](https://www.liuc.it/)
+
 Research interests: Interpretable Machine Learning, Operations Research, Business Analytics
 
 

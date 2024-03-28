@@ -1,7 +1,9 @@
 ## About Me
-PhD Student in Management, Accounting and Finance at [LIUC Università Carlo Cattaneo](https://www.liuc.it/)
+<strong>PhD Student</strong> in Management, Accounting and Finance at [LIUC Università Carlo Cattaneo](https://www.liuc.it/) under the supervision of Prof. Alessandra Cillo and Prof. Giovanni Paolo Crespi.
 
-Research interests: Interpretable Machine Learning, Operations Research, Business Analytics
+Currently visting Prof. Xuefei Lu at SKEMA Business School's [Research Center for Analytics and Management Science](https://www.skema.edu/faculty-and-research/projects/presentation-prism) (Suresnes, France).
+
+<strong>Research interests</strong>: Interpretable Machine Learning, Explainable AI, Operations Research, Business Analytics.
 
 
 ## Contact

@@ -11,3 +11,8 @@ You can contact me at:
 * Institutional email: [csessa@liuc.it](mailto:csessa@liuc.it)
 * Personal email: [sesclaud@gmail.com](mailto:sesclaud@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/claudiasessa/)
+
+
+## CV
+You can download my cv here:
+[cv](CV_updated.pdf)
